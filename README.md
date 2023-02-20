@@ -46,7 +46,8 @@ Overall Passing Rate
 ## Bottom Performing Schools (By % Overall Passing)
 A table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
 
-##Math Scores by Grade
+## Math Scores by Grade
+
 A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ## Reading Score by Grade 
